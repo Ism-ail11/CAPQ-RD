@@ -1,1 +1,1 @@
-# CAPQ-RD
+Cycle-Aware Power-of-Two Quantization
